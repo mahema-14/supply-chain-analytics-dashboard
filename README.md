@@ -54,7 +54,8 @@ supply-chain-analytics-dashboard/
 </p>
 
 
-## Author
-P Mahema Sai
+## Contributors
+- mahema-14 (Repository Owner)
+- Namitha906 (Project Collaborator)
 
 Project developed as part of the Power BI Essentials – Data to Dashboard Certification Program.
